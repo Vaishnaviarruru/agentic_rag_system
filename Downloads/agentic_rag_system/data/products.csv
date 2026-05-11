@@ -1,0 +1,11 @@
+ProductID,Product,Category,Price,Stock
+201,Laptop,Electronics,65000,15
+202,Mouse,Electronics,799,120
+203,Keyboard,Electronics,1499,85
+204,Chair,Furniture,3500,40
+205,Desk,Furniture,7200,25
+206,Notebook,Stationery,60,500
+207,Pen,Stationery,15,1000
+208,Water Bottle,Accessories,499,150
+209,Backpack,Accessories,1999,60
+210,Monitor,Electronics,12000,30

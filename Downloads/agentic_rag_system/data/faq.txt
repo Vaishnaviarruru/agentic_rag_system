@@ -1,0 +1,14 @@
+What is RAG?
+RAG stands for Retrieval Augmented Generation. It combines a retrieval system with a language model to answer questions grounded strictly in provided documents.
+
+What is FAISS?
+FAISS is a library by Facebook AI Research for fast similarity search over dense vectors. It stores embeddings and retrieves the most relevant ones for a given query.
+
+What is LangChain?
+LangChain is a framework for building LLM-powered applications. It provides tools for document loading, chunking, embedding, retrieval, and chaining LLM calls together.
+
+What is an embedding?
+An embedding is a numerical vector representation of text. Similar texts have vectors that are close together in vector space, which allows semantic search.
+
+What is a vector database?
+A vector database stores embeddings and supports fast nearest-neighbor search. Examples include FAISS, Chroma, Weaviate, and Pinecone.
