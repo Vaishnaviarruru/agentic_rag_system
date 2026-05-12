@@ -3,7 +3,7 @@
 An AI document assistant that answers questions strictly from your uploaded documents.
 Built with Groq Llama 3.3 70B, HuggingFace embeddings, and FAISS — entirely free to run.
 
-> **Live Demo:** [Add your Streamlit Cloud URL here after deployment]
+> **Live Demo:** [https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fagenticragsystem-8c5q2vsifbdpwkoit5rkyq.streamlit.app%2F]
 
 ---
 
